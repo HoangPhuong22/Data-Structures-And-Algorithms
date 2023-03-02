@@ -8,7 +8,7 @@ int main()
     int x; cin >> x;
     int can = x%10;
     switch(can)
-	{
+    {
         case 0: cout << "CANH "; break;
         case 1: cout << "TAN "; break;
         case 2: cout << "NHAM "; break;
@@ -22,7 +22,7 @@ int main()
     }
     int chi = (x-1980)%12;
     switch(chi)
-	{
+    {
         case 0: cout << "THAN"; break;
         case 1: cout << "DAU"; break;
         case 2: cout << "TUAT"; break;
