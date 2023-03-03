@@ -1,4 +1,1 @@
-Xin chào mọi người !!!!                                                                                                                                                   
-Trong quá trình đi làm và giảng dạy tại trung tập lập trình 28tech thì mình có để lại những solution code trong tất cả những contest của khóa học
-Cấu trúc dữ liệu và giải thuật , C++ cơ bản , C++ nâng cao , Mình mong rằng những lời giải này sẽ giúp ích cho tất cả những bạn học viên cũ đã từng học với mình và 28Tech hay là những bạn ngoài khóa cần tìm lời giải cho những contest cấu trúc dữ liệu và giải thuật và C++ cơ bản , C++ nâng cao , Cảm ơn tất cả mọi người đã tin tưởng và học ở 28Tech , mong rằng chúng ta sẽ còn gặp lại trong những khóa học sắp tới của 28Tech. Yêu mọi người!                                                                                   
-Update : T3/2023 . Mọi thắc mắc hay có nhầm lẫn về code vui lòng liên hệ qua fb mình nhé mọi người!
+
