@@ -14,7 +14,7 @@ int main() {
     sort(v.begin(),v.end());
     long long ans = 0;
     for (int i=0;i<n;i++) {
-        ans = max(ans , v[i].first) +v[i].second);
+        ans = max(ans , v[i].first) +v[i].second;
     }
     cout << ans << endl;
     return 0;
